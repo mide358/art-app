@@ -14,3 +14,28 @@
 .App > .Footer {
 	margin-top: auto;
 }
+.artdetails button {
+	color: #2b3a55;
+	font-size: 18px;
+
+	width: 70%;
+	margin-bottom: 1rem;
+	background-color: #e8c4c4;
+}
+.image-details {
+	display: flex;
+	flex-direction: column;
+	margin: 1rem auto;
+}
+.image-details img {
+	width: 350px;
+	height: 400px;
+}
+.image-details button {
+	margin-top: 4rem;
+	background-color: #2b3a55;
+	color: #e8c4c4;
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 1rem 3rem;
+}
